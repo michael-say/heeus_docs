@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Heeus Docs</title>
+    <link>https://yohanson555.github.io/heeus_docs/docs/</link>
+    <description>Recent content in Docs on Heeus Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://yohanson555.github.io/heeus_docs/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
