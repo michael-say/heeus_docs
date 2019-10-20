@@ -1,13 +1,11 @@
-name: CI
-
+name: Build Hugo
 on: [push]
-
 jobs:
   build:
-
+    name: Build
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v1
-    - name: Hugo Actions
-      uses: srt32/hugo-action@v0.0.3
+    - name: Check out code
+      uses: actions/checkout@master
+    - name: Build Hugo
+      uses: lowply/build-hugo@v0.58.3
