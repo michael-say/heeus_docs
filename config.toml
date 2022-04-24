@@ -1,5 +1,0 @@
-baseURL = "https://yohanson555.github.io/heeus_docs/"
-languageCode = "en-us"
-title = "Heeus Docs"
-publishDir = "docs"
-theme = "book"

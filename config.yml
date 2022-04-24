@@ -1,0 +1,8 @@
+baseURL: https://heeus.io/beta/docs/
+languageCode: en-us
+title: Heeus Docs
+publishDir: docs
+theme: book
+Params:
+  BookLogo: images/logo3-1.png
+  BookSection: "*"
