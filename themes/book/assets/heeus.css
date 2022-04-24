@@ -1,0 +1,38 @@
+#bbrand {
+    padding-bottom: .5rem;
+}
+
+body {
+    background: rgb(26,23,37);
+    background: linear-gradient(90deg, rgba(26,23,37,1) 0%, rgba(26,23,37,1) 50%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);    
+}
+
+.book-page {
+    background: white;
+}
+
+.book-brand a {
+    color: white;
+    vertical-align: middle;
+}
+
+.book-menu a {
+    color: #eee;
+}
+.book-menu a.active {
+    color: #fe6600!important;
+}
+
+.book-search a {
+    color: white!important;
+}
+.book-search a:hover {
+    color: #fe6600!important;
+    opacity: 1!important;
+}
+
+.book-brand img {
+    height: 1em!important;
+    filter: grayscale(100%) brightness(1.75);
+
+}
