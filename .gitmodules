@@ -1,6 +1,0 @@
-[submodule "themes/book"]
-	path = themes/book
-	url = https://github.com/michael-say/hugo-book
-[submodule "content/themes/book"]
-	path = content/themes/book
-	url = https://github.com/michael-say/hugo-book
